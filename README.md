@@ -1,4 +1,4 @@
-# 布魯斯前端 React仿Instagram教學 初始專案
+# React 仿 Instagram 實作
 
 ## 如何使用此專案？
 
@@ -25,7 +25,7 @@ npm run prettier
 
 ```
 
-## 如何啟動Json server？
+## 如何啟動 Json server？
 
 ```
 
@@ -33,7 +33,7 @@ npm run server
 
 ```
 
-## 測試API格式
+## 測試 API 格式
 
 ```
 file: db.json
