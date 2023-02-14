@@ -1,6 +1,6 @@
 import { configureStore } from "@reduxjs/toolkit";
-import { homeApi } from "services/homeService";
-import friendReducer from "slices/friendSlice";
+import { homeApi } from "./services/homeService";
+import friendReducer from "./slices/friendSlice";
 
 export const store = configureStore({
   reducer: {

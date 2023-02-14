@@ -1,4 +1,3 @@
-import React from "react";
 import Item from "./Item";
 import { useGetIGStoiesQuery } from "services/homeService";
 import Loading from "components/Loading";
